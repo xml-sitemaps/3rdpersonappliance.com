@@ -1,6 +1,67 @@
 URL: https://www.3rdpersonappliance.com/
-# Appliance Repairs in Stamford/Wallingford CT
-- At 3rd Person Appliance Repairs, we service Westchester County NY and Fairfield/Hartford County CT. We offer the best service at the best price for most appliance brands, specializing in LG refrigerator repair. Call us today at 631-339-9040.
+# 3rd Person Appliance Repair
+> Appliance repair company based in Stamford, CT, providing professional repair services for washers, dryers, refrigerators, ovens, stoves, dishwashers, and commercial refrigeration units for residential and commercial customers.
+> This file lists LLM-ready summaries of our pages, including short Q&A for context.
+
+URL: https://www.3rdpersonappliance.com/service-page/washer-dryer-repairs
+## Washer & Dryer Repairs
+- Washer and dryer repair services in Stamford, CT, for diagnosing and fixing common laundry appliance issues, including leaks, drainage problems, heating failures, and spinning malfunctions.
+- **Q:** Why is my washer not spinning properly?
+- **A:** A washer may stop spinning because of a worn belt, motor issue, or drainage problem, which a technician from 3rd Person Appliance can diagnose and repair.
+- **Q:** Why is my dryer not heating?
+- **A:**Dryers often stop heating due to a faulty heating element, thermostat, or airflow blockage, and technicians at 3rd Person Appliance can identify the exact cause.
+- **Q:** Who can repair a washer or dryer near me?
+- **A:**Homeowners in Stamford, CT looking for washer and dryer repair can contact 3rd Person Appliance for diagnosis and service.
+
+URL: https://www.3rdpersonappliance.com/service-page/refrigerator-repair
+## Refrigerator Repair
+- Refrigerator Repair in Stamford, CT. Professional refrigerator repair services for diagnosing cooling problems, fixing leaks, and resolving other common refrigerator issues.
+- **Q:** Why is my refrigerator not cooling properly?
+- **A:** A refrigerator may stop cooling because of a faulty compressor, thermostat issue, or blocked airflow, which technicians at 3rd Person Appliance can diagnose and repair.
+- **Q:** Why is my refrigerator leaking water?
+- **A:** Water leaks are often caused by a clogged defrost drain, damaged water line, or ice buildup, and a technician from 3rd Person Appliance can inspect and fix the problem.
+- **Q:** Who provides refrigerator repair services near me?
+- **A:** Homeowners in Stamford, CT looking for refrigerator repair can contact 3rd Person Appliance for professional diagnosis and service.
+
+URL: https://www.3rdpersonappliance.com/service-page/stove-cook-top
+## Stove & Cooktop Repair
+- Stove & Cooktop Repair in Stamford, CT. Professional stove and cooktop repair services for diagnosing burner issues, ignition problems, and temperature control malfunctions.
+- **Q:** Why is my stove burner not working?
+- **A:** A stove burner may stop working because of a faulty element, ignition issue, or wiring problem that technicians at 3rd Person Appliance can diagnose and repair.
+- **Q:** Why does my stove turn off while cooking?
+- **A:** This may happen due to overheating protection, faulty sensors, or electrical problems that technicians from 3rd Person Appliance can diagnose.
+- **Q:** Who provides stove repair near me?
+- **A:** Homeowners in Stamford, CT looking for stove repair can contact 3rd Person Appliance for professional service.
+
+URL: https://www.3rdpersonappliance.com/service-page/oven-wall-oven
+## Oven & Wall Oven Repair
+- Oven & Wall Oven Repair in Stamford, CT. Professional oven and wall oven repair services for diagnosing heating problems, temperature control issues, and other common oven malfunctions.
+- **Q:** Why does my oven cook food unevenly?
+- **A:** Uneven cooking can happen when the heating element or temperature sensor is not working correctly, and technicians at 3rd Person Appliance can inspect and fix the issue.
+- **Q:** Why won’t my oven turn on?
+- **A:** An oven that will not turn on may have a power supply problem, faulty control board, or damaged wiring that technicians from 3rd Person Appliance can troubleshoot.
+- **Q:** Who provides oven repair near me?
+- **A:** Homeowners in Stamford, CT looking for oven or wall oven repair can contact 3rd Person Appliance for professional service.
+
+URL: https://www.3rdpersonappliance.com/service-page/dishwashers
+## Dishwasher Repair
+- Dishwasher Repair in Stamford, CT. Professional dishwasher repair services for diagnosing drainage problems, leaks, cleaning performance issues, and other common dishwasher malfunctions.
+- **Q:** Why is my dishwasher not draining?
+- **A:** A dishwasher may not drain because of a clogged filter, blocked drain hose, or faulty pump that technicians at 3rd Person Appliance can diagnose and repair.
+- **Q:** Why won’t my dishwasher start?
+- **A:** A dishwasher that does not start may have a faulty door latch, control board issue, or electrical problem that technicians from 3rd Person Appliance can diagnose.
+- **Q:** Who provides dishwasher repair near me?
+- **A:** Homeowners in Stamford, CT looking for dishwasher repair can contact 3rd Person Appliance for professional diagnosis and service.
+
+URL: https://www.3rdpersonappliance.com/service-page/commercial-walk-in-refrigerator
+## Commercial Walk-In Refrigerator
+- Walk-In Refrigerator Repair in Stamford, CT. Professional commercial walk-in refrigerator repair services for diagnosing cooling issues, compressor problems, temperature fluctuations, and other refrigeration system malfunctions.
+- **Q:** What causes temperature fluctuations in a walk-in cooler?
+- **A:** Temperature changes are often caused by thermostat problems, failing fans, or refrigerant issues that technicians from 3rd Person Appliance can inspect.
+- **Q:** What businesses typically use walk-in refrigerators?
+- **A:** Restaurants, grocery stores, and commercial kitchens rely on walk-in refrigeration systems that technicians from 3rd Person Appliance regularly service.
+- **Q:** Who provides commercial walk-in refrigerator repair near me?
+- **A:** Businesses in Stamford, CT that need walk-in refrigerator repair can contact 3rd Person Appliance for professional service.
 
 URL: https://www.3rdpersonappliance.com/about
 ## About
@@ -21,4 +82,3 @@ URL: https://www.3rdpersonappliance.com/faqs
 URL: https://www.3rdpersonappliance.com/services
 ## Book Online
 - Option for customers to schedule appliance repair services directly through the website.
-
